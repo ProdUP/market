@@ -1,0 +1,16 @@
+.login {
+
+    margin-left: 255%;
+
+
+}
+@media (max-width: 768px) {
+    .login {
+        margin-left: 0%;
+    }
+
+  }
+
+  .ss{
+      color:black;
+  }
